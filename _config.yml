@@ -1,0 +1,28 @@
+name: rustic americana
+favicon: null
+layout_spectrum: 0.5918888656888157
+typography_spectrum: 0.7644895347766578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7478856972884387
+  lightness: 0.46920637786388397
+  saturation: 0.7466233887244016
+  rhythmicContrast: 0.5533358417451382
+purpose: []
